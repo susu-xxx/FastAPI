@@ -1,0 +1,16 @@
+{
+  "name": "react_connect",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^4.0.0"
+  }
+}
+ 
